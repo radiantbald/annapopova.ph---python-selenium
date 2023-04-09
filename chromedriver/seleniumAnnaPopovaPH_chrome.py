@@ -21,8 +21,8 @@ driver = webdriver.Chrome(
 )
 
 try:
-#    driver.get('https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html')
-   driver.get('https://annapopovaph.ru/') # Зайти на сайт
+   driver.get('https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html')
+#    driver.get('https://annapopovaph.ru/') # Зайти на сайт
    time.sleep(5)
 
 
